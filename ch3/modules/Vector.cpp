@@ -25,7 +25,7 @@ int Vector::size()
     return sz;
 }
 
-export bool operator==(const Vector& v1, const Vector& v2)
+export bool operator==(Vector& v1, Vector& v2)
 {
     if (v1.size()!=v2.size())
         return false;

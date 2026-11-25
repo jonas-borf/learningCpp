@@ -1,8 +1,9 @@
-import Vector
+import Vector;
+#include <iostream>
 #include <cmath>
 
 using namespace std;
-
+using namespace Vector;
 double sqrt_sum(Vector& v)
 {
     double sum=0;

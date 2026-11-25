@@ -1,0 +1,4 @@
+/home/jonas/Desktop/learningCpp/learningCMake/build/CMakeFiles/app.dir
+/home/jonas/Desktop/learningCpp/learningCMake/build/CMakeFiles/edit_cache.dir
+/home/jonas/Desktop/learningCpp/learningCMake/build/CMakeFiles/rebuild_cache.dir
+/home/jonas/Desktop/learningCpp/learningCMake/build/CMakeFiles/@cmake_cxx_std@synth_0.dir

@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/jonas/Desktop/learningCpp/learningCMake/build",
+	"dir-cur-src" : "/home/jonas/Desktop/learningCpp/learningCMake",
+	"dir-top-bld" : "/home/jonas/Desktop/learningCpp/learningCMake/build",
+	"dir-top-src" : "/home/jonas/Desktop/learningCpp/learningCMake",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/home/jonas/Desktop/learningCpp/learningCMake/build/CMakeFiles/@cmake_cxx_std@synth_0.dir"
+	],
+	"module-dir" : "/home/jonas/Desktop/learningCpp/learningCMake/build/CMakeFiles/app.dir",
+	"sources" : 
+	{
+		"CMakeFiles/app.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/jonas/Desktop/learningCpp/learningCMake/main.cpp"
+		}
+	}
+}
